@@ -1,4 +1,4 @@
-package com.emc.mystic.manager.operation.core.factory.leet;
+package com.leet;
 
 public class Searcha2DMatrixII {
 

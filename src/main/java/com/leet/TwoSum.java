@@ -1,4 +1,4 @@
-package com.emc.mystic.manager.operation.core.factory.leet;
+package com.leet;
 
 //1 Two Sum
 public class TwoSum {

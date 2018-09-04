@@ -1,4 +1,4 @@
-package com.emc.mystic.manager.operation.core.factory.leet;
+package com.leet.bits;
 
 public class HammingDistance {
 

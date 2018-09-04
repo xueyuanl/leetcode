@@ -1,6 +1,4 @@
-package com.emc.mystic.manager.operation.core.factory.leet.Sort;
-
-import java.util.ArrayList;
+package com.leet.Sort;
 
 //basic algorithm implement, not a leet problem
 public class MergeSort {
